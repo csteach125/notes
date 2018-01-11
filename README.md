@@ -1,2 +1,7 @@
-# notes
-weekly notes for COMP 125 - visual information processing
+### Notes
+
+This repository is a collection of notes and tutorial developed for COMP 125.
+
+#### Contents
+* extras
+* weekly
